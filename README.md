@@ -23,7 +23,9 @@ ectera, ectera, ectera.
  __This project is an attempt to solve Event 1 and 2.__
 
 It is here that teachers should be able to find resources to share with their class.
+
 It is here that parents should be able to find encouragement for their daughters to choose this path.
+
 It is here that young girls and women should be able to network and find a place where they can grow their coding skills.
 
 ## Installation 
@@ -65,7 +67,7 @@ $ rspec
 ```
 
 ## Authors
-Product Owner [Anissa]()
+Product Owner [Anissa](https://github.com/SuperJones)
 
 ## Acknowledgments
 [Women Who Code DC]()
